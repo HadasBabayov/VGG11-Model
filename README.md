@@ -12,5 +12,7 @@ In this project, I implement VGG11 model with using PyTorch package.<br/>
   
   Now, run the command:<br/>
   
-  
+   ```
+  python ex5.py
+  ```
   
